@@ -1,0 +1,144 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: black;
+  }
+  
+  .logo-style1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+  }
+  
+  .logo-style2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: black;
+  }
+  
+  .menu {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: black;
+  }
+  
+  .menu:hover {
+    color: #2196f3;
+  }
+  
+  .information {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+  }
+  
+  .information:hover {
+    color: #2196f3;
+  }
+  
+  .order {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+  }
+  
+  .description {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+  }
+  
+  .rubric {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+  }
+  
+  .title-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #212121;
+  }
+  
+  .working-name {
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #757575;
+  }
+  
+  footer {
+    background: #2f303a;
+  }
+  
+  .location {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #fffafa;
+  }
+  .location:hover {
+    color: #2196f3;
+  }
+  
+  .info-footer {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+  }
+  .info-footer:hover {
+    color: #2196f3;
+  }
+  
+  .portfolio-button {
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #000;
+    cursor: pointer;
+  }
+  .portfolio-button:hover {
+    color: rgb(255, 255, 255);
+    background-color: #2196f3;
+  }
+  .name-section {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;
+  }
+  .description-section {
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+  }
+  
